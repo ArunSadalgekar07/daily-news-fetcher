@@ -35,7 +35,7 @@ The **Daily News Fetcher** is a Python script that fetches the latest top headli
 Run the script by executing:
 
 ```bash
-python daily_news_fetcher.py
+python news_fetcher.py
 ```
 
 You will be prompted to enter the country code and category:
